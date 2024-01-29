@@ -37,7 +37,7 @@ Rectangle {
             anchors.centerIn: parent
 
             asynchronous: true
-            source: "images/endeavour-logo-sans-logotype.svgz"
+            source: "images/output.svgz"
 
             sourceSize.width: size
             sourceSize.height: size
